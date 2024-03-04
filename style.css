@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body{
+    font: normal 1em Arial;
+    color: white;
+    background-color: #0c527e;
+}
+header{
+    h1{
+        text-align: center;
+        text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.473);
+    }
+}
+section{
+    background-color: white;
+    color: black;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.473);
+}
+#flista{
+    width: 150px;
+}
+footer{
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.473);
+}
